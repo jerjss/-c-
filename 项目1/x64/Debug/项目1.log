@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\早濑优香好有感觉\Desktop\0.0\新项目1\项目1\test.cpp(110,22): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\早濑优香好有感觉\Desktop\0.0\新项目1\项目1\test.cpp(119,22): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\早濑优香好有感觉\Desktop\0.0\新项目1\项目1\test.cpp(394,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  项目1.vcxproj -> C:\Users\早濑优香好有感觉\Desktop\0.0\新项目1\x64\Debug\项目1.exe
